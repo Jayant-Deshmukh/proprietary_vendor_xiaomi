@@ -1051,8 +1051,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/land/proprietary/lib/lib-imsvtutils.so:system/lib/lib-imsvtutils.so \
     vendor/xiaomi/land/proprietary/lib/libGPTEE_system.so:system/lib/libGPTEE_system.so \
     vendor/xiaomi/land/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
-    vendor/xiaomi/land/proprietary/lib/libOmxSwVdec.so:system/lib/libOmxSwVdec.so \
-    vendor/xiaomi/land/proprietary/lib/libOmxSwVencMpeg4.so:system/lib/libOmxSwVencMpeg4.so \
+    vendor/xiaomi/land/proprietary/vendor/lib/libOmxSwVdec.so:system/vendor/lib/libOmxSwVdec.so \
+    vendor/xiaomi/land/proprietary/vendor/lib/libOmxSwVencMpeg4.so:system/vendor/lib/libOmxSwVencMpeg4.so \
     vendor/xiaomi/land/proprietary/lib/libQTEEConnector_system.so:system/lib/libQTEEConnector_system.so \
     vendor/xiaomi/land/proprietary/lib/libdiag_system.so:system/lib/libdiag_system.so \
     vendor/xiaomi/land/proprietary/lib/libdpmctmgr.so:system/lib/libdpmctmgr.so \
@@ -1101,8 +1101,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/land/proprietary/lib64/lib-imsvtutils.so:system/lib64/lib-imsvtutils.so \
     vendor/xiaomi/land/proprietary/lib64/libGPTEE_system.so:system/lib64/libGPTEE_system.so \
     vendor/xiaomi/land/proprietary/lib64/libOmxMux.so:system/lib64/libOmxMux.so \
-    vendor/xiaomi/land/proprietary/lib64/libOmxSwVdec.so:system/lib64/libOmxSwVdec.so \
-    vendor/xiaomi/land/proprietary/lib64/libOmxSwVencMpeg4.so:system/lib64/libOmxSwVencMpeg4.so \
+    vendor/xiaomi/land/proprietary/vendor/lib64/libOmxSwVdec.so:system/vendor/lib64/libOmxSwVdec.so \
+    vendor/xiaomi/land/proprietary/vendor/lib64/libOmxSwVencMpeg4.so:system/vendor/lib64/libOmxSwVencMpeg4.so \
     vendor/xiaomi/land/proprietary/lib64/libQTEEConnector_system.so:system/lib64/libQTEEConnector_system.so \
     vendor/xiaomi/land/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
     vendor/xiaomi/land/proprietary/lib64/libdpmctmgr.so:system/lib64/libdpmctmgr.so \
@@ -1264,6 +1264,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/land/proprietary/vendor/lib/libGPreqcancel.so:system/vendor/lib/libGPreqcancel.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libGPreqcancel_svc.so:system/vendor/lib/libGPreqcancel_svc.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
+    vendor/xiaomi/land/proprietary/vendor/lib/libMpeg4SwEncoder.so:system/vendor/lib/libMpeg4SwEncoder.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libOmxAlacDec.so:system/vendor/lib/libOmxAlacDec.so \
     vendor/xiaomi/land/proprietary/vendor/lib/libOmxAlacDecSw.so:system/vendor/lib/libOmxAlacDecSw.so \
@@ -1486,6 +1487,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/land/proprietary/vendor/lib64/libGPreqcancel.so:system/vendor/lib64/libGPreqcancel.so \
     vendor/xiaomi/land/proprietary/vendor/lib64/libGPreqcancel_svc.so:system/vendor/lib64/libGPreqcancel_svc.so \
     vendor/xiaomi/land/proprietary/vendor/lib64/libI420colorconvert.so:system/vendor/lib64/libI420colorconvert.so \
+    vendor/xiaomi/land/proprietary/vendor/lib64/libMpeg4SwEncoder.so:system/vendor/lib64/libMpeg4SwEncoder.so \
     vendor/xiaomi/land/proprietary/vendor/lib64/libOmxAacDec.so:system/vendor/lib64/libOmxAacDec.so \
     vendor/xiaomi/land/proprietary/vendor/lib64/libOmxAlacDec.so:system/vendor/lib64/libOmxAlacDec.so \
     vendor/xiaomi/land/proprietary/vendor/lib64/libOmxAlacDecSw.so:system/vendor/lib64/libOmxAlacDecSw.so \
