@@ -257,26 +257,28 @@ Creating special_mode_mask examples:
       <A3Video>imx230_hdr_video_lc898212xd</A3Video>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="11">
-      <ISPPreview>imx230_snapshot_hdr</ISPPreview>
-      <ISPSnapshot>imx230_snapshot_hdr</ISPSnapshot>
-      <ISPVideo>imx230_snapshot_hdr</ISPVideo>
-      <CPPPreview>imx230_cpp_snapshot_hdr</CPPPreview>
-      <CPPSnapshot>imx230_cpp_snapshot_hdr</CPPSnapshot>
-      <CPPVideo>imx230_cpp_snapshot_hdr</CPPVideo>
-      <CPPLiveshot>imx230_cpp_snapshot_hdr</CPPLiveshot>
-      <A3Preview>imx230_hdr_video_lc898212xd</A3Preview>
-      <A3Video>imx230_hdr_video_lc898212xd</A3Video>
+      <ISPPreview>imx230_raw_hdr</ISPPreview>
+      <ISPSnapshot>imx230_raw_hdr</ISPSnapshot>
+      <ISPVideo>imx230_raw_hdr</ISPVideo>
+      <CPPPreview>imx230_cpp_raw_hdr</CPPPreview>
+      <CPPSnapshot>imx230_cpp_raw_hdr</CPPSnapshot>
+      <CPPVideo>imx230_cpp_raw_hdr</CPPVideo>
+      <CPPLiveshot>imx230_cpp_raw_hdr</CPPLiveshot>
+      <A3Preview>imx230_raw_hdr_lc898212xd</A3Preview>
+      <A3Video>imx230_raw_hdr_lc898212xd</A3Video>
+      <External>hvx_zzHDR</External>
     </ChromatixName>
     <ChromatixName sensor_resolution_index="12">
-      <ISPPreview>imx230_snapshot_hdr</ISPPreview>
-      <ISPSnapshot>imx230_snapshot_hdr</ISPSnapshot>
-      <ISPVideo>imx230_snapshot_hdr</ISPVideo>
-      <CPPPreview>imx230_cpp_snapshot_hdr</CPPPreview>
-      <CPPSnapshot>imx230_cpp_snapshot_hdr</CPPSnapshot>
-      <CPPVideo>imx230_cpp_snapshot_hdr</CPPVideo>
-      <CPPLiveshot>imx230_cpp_snapshot_hdr</CPPLiveshot>
-      <A3Preview>imx230_hdr_snapshot_lc898212xd</A3Preview>
-      <A3Video>imx230_hdr_snapshot_lc898212xd</A3Video>
+      <ISPPreview>imx230_raw_hdr</ISPPreview>
+      <ISPSnapshot>imx230_raw_hdr</ISPSnapshot>
+      <ISPVideo>imx230_raw_hdr</ISPVideo>
+      <CPPPreview>imx230_cpp_raw_hdr</CPPPreview>
+      <CPPSnapshot>imx230_cpp_raw_hdr</CPPSnapshot>
+      <CPPVideo>imx230_cpp_raw_hdr</CPPVideo>
+      <CPPLiveshot>imx230_cpp_raw_hdr</CPPLiveshot>
+      <A3Preview>imx230_raw_hdr_lc898212xd</A3Preview>
+      <A3Video>imx230_raw_hdr_lc898212xd</A3Video>
+      <External>hvx_zzHDR</External>
     </ChromatixName>
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>
